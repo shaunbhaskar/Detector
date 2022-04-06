@@ -1,0 +1,33 @@
+
+.heading
+{
+font-size: 45px;
+width: 100%;
+margin: 0px;
+font-family: 'Noto Serif', serif;
+font-family: 'Share Tech Mono', monospace;
+font-family: 'Syncopate', sans-serif;
+}
+
+#status
+{
+font-size: 23px;
+font-family: 'Noto Serif', serif;
+font-family: 'Share Tech Mono', monospace;
+font-family: 'Syncopate', sans-serif;
+
+}
+
+
+body{
+background-position: center;
+background-size:cover;
+font-family: 'Noto Serif', serif;
+font-family: 'Share Tech Mono', monospace;
+font-family: 'Syncopate', sans-serif;
+}
+
+canvas{
+box-shadow:10px 10px 10px cyan;
+border-radius:10px;
+}
